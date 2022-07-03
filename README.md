@@ -1,5 +1,6 @@
 ###
-<span style="color: green"> **i do the funni in c# and c++ 🗣️💯** </span>
+<span style="color: blue"> **i do the funni in c# and c++ 🗣️💯** </span>
+
 
 https://twitter.com/potato2z
 
