@@ -1,9 +1,12 @@
-###
-<span style="color: blue"> **i do the funni in c# and c++ 🗣️💯** </span>
+### Tado (Potato)
+
+- ⭐ C# Lover, Java Fan
+- 🍼 tado#2990 on discord
+- 🧊 Learning HTML, CSS, C++
+- 🍀 Current Project: Jinx V2/V3
+- 🎡 Head Dev/Owner Of Jinx, Dev/Owner Of Premitate
+- 🍎 https://www.tado.ml (my shitty site made with gs's)
+- 🐤 https://twitter.com/potato2z (my twitter where i usually just shitpost)
 
 
-https://twitter.com/potato2z
-
-
-![holy-moly-emoji](https://user-images.githubusercontent.com/89509337/177057392-c7af71c9-da8a-40a6-8471-21621c17dcef.gif)
 
