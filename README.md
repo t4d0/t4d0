@@ -1,5 +1,8 @@
 ### Tado (Potato)
 
+![image](https://user-images.githubusercontent.com/89509337/182741522-04f79312-b6cb-4c6e-b02a-e3fb446cc8c2.png)
+
+
 - ⭐ C# Lover, Java Fan
 - 🍼 tado#2990 on discord
 - 🧊 Learning HTML, CSS, C++
