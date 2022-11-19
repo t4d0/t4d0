@@ -1,9 +1,4 @@
-###   Tado (Potato)
-
-
-frontend c# developer.
-
-tado#2990
+https://potatofr.github.io/tado/
 
 
 
