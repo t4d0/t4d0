@@ -7,7 +7,7 @@ learning a bit of c++ too
 [tado.ml](https://potatofr.github.io/tado/)
 
 ## 
-![image](https://user-images.githubusercontent.com/89509337/236381594-3030fd1e-5219-41a6-ba33-28f6beebe302.png) ![image](https://user-images.githubusercontent.com/89509337/236381738-4257c186-108c-4725-a2eb-238085588b21.png) ![image](https://user-images.githubusercontent.com/89509337/236381753-5dbae452-c1da-43a9-a59c-e4356bf533a9.png)
+
 
 
 
