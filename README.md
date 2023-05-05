@@ -6,8 +6,9 @@ learning a bit of c++ too
 
 [tado.ml](https://potatofr.github.io/tado/)
 
-## 
+## Software engineer
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 
