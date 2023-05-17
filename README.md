@@ -11,8 +11,8 @@
 
 ### Current Projects
 
-- ARES [Ares Discord](http://discord.com/invites/aresfn/)
-- FNBuilds Installer
+-- ARES [Ares Discord](http://discord.com/invites/aresfn/)
+-- FNBuilds Installer
 
 [Ares (Current project)](http://discord.com/invite/aresfn/)
 
