@@ -6,7 +6,6 @@
 
 
 [Twitter](http://https://twitter.com/tadofrr/)
-
 [tado#0228](http://discord.com/)
 
 [Ares (Current project)](http://discord.com/invite/aresfn/)
