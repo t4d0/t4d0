@@ -13,7 +13,7 @@
 
 ─ ARES [Ares Discord](http://discord.com/invites/aresfn/)
 
-─ FNBuilds Installer
+─ FNBuilds Installer [No link yet!](http://)
 ⠀
 
 ## Contact information
