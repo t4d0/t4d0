@@ -15,8 +15,6 @@
 
 ─ FNBuilds Installer
 
-[Ares (Current project)](http://discord.com/invite/aresfn/)
-
 ## Contact
 
 - Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
