@@ -17,8 +17,9 @@
 
 ## Contact
 
-- Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
-- Discord [tado#0228](http://discord.com/)
+─ Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
+
+─ Discord [tado#0228](http://discord.com/)
 
 
 
