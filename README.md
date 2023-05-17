@@ -21,7 +21,7 @@
 ⠀
 
 
-## Contact
+## Contact information
 
 ─ Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
 
