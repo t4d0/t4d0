@@ -1,7 +1,7 @@
 # Software engineer / Web developer
 
 ### c#, js, html, css, c++, ue4/5, java
-##### PST Timezone (California)
+##### US WEST (PST Timezone)
 
 
 
