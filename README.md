@@ -22,5 +22,5 @@
 
 ─ Discord [tado#0228](http://discord.com/)
 ⠀
-#### *<sup>Commisions open. Need a launcher for a game? An installer? A website? DM One of my above socials.</sup>
+#### * <sup>Commisions open. Need a launcher for a game? An installer? A website? DM One of my above socials.</sup>
 
