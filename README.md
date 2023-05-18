@@ -9,7 +9,7 @@
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a></code>
 ##### US WEST (PST Timezone)
 
-# Current Projects
+# Current Projects*
 
 ─ ARES [Ares Discord](http://discord.com/invites/aresfn/)
 
@@ -22,5 +22,5 @@
 
 ─ Discord [tado#0228](http://discord.com/)
 ⠀
-#### <sup>Commisions open. Need a launcher for a game? An installer? A website? DM One of my above socials.</sup>
+#### *<sup>Commisions open. Need a launcher for a game? An installer? A website? DM One of my above socials.</sup>
 
