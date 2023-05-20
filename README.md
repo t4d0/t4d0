@@ -13,7 +13,7 @@
 
 ─ ARES [Ares Discord](http://discord.com/invites/aresfn/)
 
-─ Soon 👀 [No link yet!](http://)
+─ Astro Latest 👀 [No link yet!](http://)
 ⠀
 
 ## Contact information
