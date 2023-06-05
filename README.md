@@ -9,11 +9,9 @@
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a></code>
 ##### US WEST (PST Timezone)
 
-# Current Projects*
+# Current Projects
 
-─ ARES [Ares Discord](http://discord.com/invites/aresfn/)
-
-─ Astro Latest 👀 [No link yet!](http://)
+─ Astro Latest 👀 [Discord](https://discord.com/astrofn)
 ⠀
 
 ## Contact information
