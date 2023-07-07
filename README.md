@@ -8,7 +8,6 @@
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS"></a></code>
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a></code>
 ##### US WEST (PST Timezone)
-⠀
 ## Contact information
 
 ─ Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
