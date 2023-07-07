@@ -8,17 +8,12 @@
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="CSS"></a></code>
  <code><a href=""><img height="30" style="max-width:100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"></a></code>
 ##### US WEST (PST Timezone)
-
-# Current Projects
-
-─ Astro Latest 👀 [Discord](https://discord.com/astrofn)
 ⠀
-
 ## Contact information
 
 ─ Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
 
-─ Discord [tado#0228](http://discord.com/)
+─ Discord [@t6do](http://discord.com/)
 ⠀
-#### * <sup>Commisions open. Need a launcher for a game? An installer? A website? DM One of my above socials.</sup>
+#### * <sup>DISCORD.GG/MEAT</sup>
 
