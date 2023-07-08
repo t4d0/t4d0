@@ -10,9 +10,5 @@
 ##### US WEST (PST Timezone)
 ## Contact information
 
-─ Twitter [@tadofrr](http://https://twitter.com/tadofrr/)
-
-─ Discord [@t6do](http://discord.com/)
-⠀
-#### * <sup>DISCORD.GG/MEAT</sup>
+https://tado.lol/
 
